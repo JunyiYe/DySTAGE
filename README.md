@@ -1,7 +1,9 @@
 # DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings
 
 We introduce the source code of our paper "DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings" (ICAIF 2024). 
-![asset_graph](https://github.com/user-attachments/assets/1bfbdbbc-5e86-4632-ae08-f8182a879e51)
+
+![framework](https://github.com/user-attachments/assets/d8b4a272-9853-4668-8b46-fdcadd4d3af6)
+
 
 DySTAGE is a novel dynamic graph representation learning framework designed to enhance asset pricing prediction by capturing the evolving interrelationships among financial assets. Unlike traditional models that rely on static graphs or time series data, DySTAGE employs dynamic graph structures to represent the temporal and spatial dependencies of assets in financial networks. This enables the model to adapt to changes in asset composition and their correlations over time.
 
