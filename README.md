@@ -1,6 +1,6 @@
 # DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings
 
-We introduce the source code of our paper "[[DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings]](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680)" (ICAIF 2024). 
+We introduce the source code of our paper "[DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680)" (ICAIF 2024). 
 
 ![framework](https://github.com/user-attachments/assets/d8b4a272-9853-4668-8b46-fdcadd4d3af6)
 
