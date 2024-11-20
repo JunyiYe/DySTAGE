@@ -1,6 +1,6 @@
 # DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings
 
-We introduce the source code of our paper "DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings" (ICAIF 2024). 
+We introduce the source code of our paper "[[DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings]](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680)" (ICAIF 2024). 
 
 ![framework](https://github.com/user-attachments/assets/d8b4a272-9853-4668-8b46-fdcadd4d3af6)
 
@@ -47,3 +47,15 @@ To train DySTAGE, run the following command:
 python main.py --dataset {data_folder_name}
 ```
 During training, the best model along with predictions and labels will be saved to the `result` directory.
+
+## Citation
+If you use this code for your research, please kindly cite our paper:
+```
+@inproceedings{gu2024dystage,
+  title={DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings},
+  author={Gu, Jingyi and Ye, Junyi and Uddin, Ajim and Wang, Guiling},
+  booktitle={Proceedings of the 5th ACM International Conference on AI in Finance},
+  pages={388--396},
+  year={2024}
+}
+```
