@@ -9,7 +9,7 @@ DySTAGE is a novel dynamic graph representation learning framework designed to e
 
 ## News
 - [2024/10] 🔥 **Our DySTAGE paper is accepted by [ICAIF 2024](https://dl.acm.org/doi/proceedings/10.1145/3677052)**.
-- 
+
 ## Key Features
 - **Dynamic Graph Construction**: The framework dynamically constructs graphs from time series data to reflect the evolving asset interrelationships, accommodating asset additions and removals over time.
 - **Spatio-Temporal Attention**: DySTAGE employs a combination of spatial and temporal attention mechanisms to capture both the topological (structural) and temporal (historical) patterns of asset behavior.
