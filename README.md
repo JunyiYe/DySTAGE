@@ -1,12 +1,15 @@
 # DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings
 
-We introduce the source code of our paper "[DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680)" (ICAIF 2024). 
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680)] [[slides](./assets/DYSTAGE_slides.pdf)]
 
 ![framework](https://github.com/user-attachments/assets/d8b4a272-9853-4668-8b46-fdcadd4d3af6)
 
 
 DySTAGE is a novel dynamic graph representation learning framework designed to enhance asset pricing prediction by capturing the evolving interrelationships among financial assets. Unlike traditional models that rely on static graphs or time series data, DySTAGE employs dynamic graph structures to represent the temporal and spatial dependencies of assets in financial networks. This enables the model to adapt to changes in asset composition and their correlations over time.
 
+## News
+- [2024/10] 🔥 **Our DySTAGE paper is accepted by [ICAIF 2024](https://dl.acm.org/doi/proceedings/10.1145/3677052)**.
+- 
 ## Key Features
 - **Dynamic Graph Construction**: The framework dynamically constructs graphs from time series data to reflect the evolving asset interrelationships, accommodating asset additions and removals over time.
 - **Spatio-Temporal Attention**: DySTAGE employs a combination of spatial and temporal attention mechanisms to capture both the topological (structural) and temporal (historical) patterns of asset behavior.
@@ -49,7 +52,7 @@ python main.py --dataset {data_folder_name}
 During training, the best model along with predictions and labels will be saved to the `result` directory.
 
 ## Citation
-If you use this code for your research, please kindly cite our paper:
+If you find this project is helpful to your research, please consider to cite our paper:
 ```
 @inproceedings{gu2024dystage,
   title={DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings},
