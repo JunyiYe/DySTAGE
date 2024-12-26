@@ -4,7 +4,7 @@
 
 # DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encodings
 
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680)] [[slides](./assets/DySTAGE_slides.pdf)]
+[[paper](https://dl.acm.org/doi/10.1145/3677052.3698680)] [[slides](./assets/DySTAGE_slides.pdf)]
 
 ![framework](./assets/figures/DySTAGE.png)
 
